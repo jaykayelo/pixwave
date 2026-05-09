@@ -1,0 +1,5 @@
+# Claude Code config
+.claude/
+
+# Third-party (clone separately)
+NeteaseCloudMusicApi/
