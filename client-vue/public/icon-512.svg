@@ -13,5 +13,5 @@
   <!-- CRTV Scanline -->
   <line x1="0" y1="256" x2="512" y2="256" stroke="#00FF41" stroke-width="2" opacity="0.05"/>
   <rect x="0" y="440" width="512" height="24" fill="#FFD700" opacity="0.15"/>
-  <text x="256" y="458" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="14" opacity="0.6">CLAUDIO FM</text>
+  <text x="256" y="458" text-anchor="middle" fill="#FFD700" font-family="monospace" font-size="14" opacity="0.6">PIXWAVE FM</text>
 </svg>
