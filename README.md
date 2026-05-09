@@ -2,6 +2,8 @@
 
 PixWave 是一个基于 Claude API 的智能音乐电台系统。它根据天气、日程、用户偏好等实时情境，自动策划个性化音乐节目，并生成 DJ 口播语音。
 
+> **灵感来源**：本项目受抖音博主 [@mmguo](https://v.douyin.com/B9SgftPW0pg/) 的[这条视频](https://v.douyin.com/5osx4XW0PkA/)启发——「把我十四年的歌单，蒸馏成了 AI 电台」。感谢 TA 的精彩创意 🙏
+
 ## 架构概览
 
 ```
