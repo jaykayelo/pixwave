@@ -1,0 +1,20 @@
+{
+  "schedule": {
+    "timezone": "Asia/Shanghai",
+    "autoGenerate": [
+      { "cron": "0 8 * * *", "label": "早安电台" },
+      { "cron": "0 18 * * 1-5", "label": "下班通勤" },
+      { "cron": "0 22 * * 5,6", "label": "周末晚间" }
+    ]
+  },
+  "show": {
+    "songsPerShow": 8,
+    "ttsInterval": 3,
+    "maxDurationMin": 45
+  },
+  "tasteRules": {
+    "excludeGenres": ["重金属", "土嗨", "喊麦"],
+    "preferLanguage": ["zh", "en"],
+    "bpmRange": { "min": 55, "max": 140 }
+  }
+}

@@ -1,0 +1,2433 @@
+{
+  "currentShow": {
+    "showTitle": "午后微风",
+    "mood": "chill",
+    "reason": "午后的阳光正好，来点轻松的旋律",
+    "playlist": [
+      {
+        "type": "tts",
+        "audioUrl": null,
+        "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+        "beforeTrack": 1
+      },
+      {
+        "type": "song",
+        "order": 1,
+        "songName": "夏日漱石(Summer Cozy Rock)",
+        "artist": "橘子海",
+        "album": "",
+        "cover": "",
+        "songId": 3362244830,
+        "url": "http://m801.music.126.net/20260509223032/10278fa003ea122a56d52ec0032a5e75/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=aJ7WO6zuBn7cdrtdKWX7RcuJ235zdyqhz3hN44DNAV/zMT0M7SgV0qpNcBZXaQj/M3OBI6N6sonzzGJEH8a+ioVANMZTTNGM2bBctBjg9Ro=",
+        "found": true,
+        "reason": "慵懒的吉他 riff 适合这个温度"
+      },
+      {
+        "type": "song",
+        "order": 2,
+        "songName": "Intro",
+        "artist": "The xx",
+        "album": "xx",
+        "cover": "",
+        "songId": 4341314,
+        "url": "http://m801.music.126.net/20260509223033/095eec7613bc4b0ad07e0f4b31b7e99c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=JBUeXRrez5/Wo6eAjLF1zSM24Wr75KU/3y6RZ7+0t1J6y2its5nCclMnpnREYPU5mJqTj3jOp0haOa2yM2wXE+DcxC7LBsWFO5odflewRQs=",
+        "found": true,
+        "reason": "极简的电子氛围承接午后的宁静"
+      },
+      {
+        "type": "tts",
+        "audioUrl": null,
+        "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+        "beforeTrack": 3
+      },
+      {
+        "type": "song",
+        "order": 3,
+        "songName": "带我去找夜生活",
+        "artist": "告五人",
+        "album": "带我去找夜生活",
+        "cover": "",
+        "songId": 1410647903,
+        "url": "http://m802.music.126.net/20260509223033/b1aa6883642700df4ffd1c411e9d7603/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=ZyI4ebakoRlQ2SKTAXo4DJmZo5ttU9YyD/b/8lM/Esx1NAzHG2GE8PGpSvkPj213b9AaNL5dIa9el/Wu4mqaia9Cg3UzXSJY0Oi2R6m+15s=",
+        "found": true,
+        "reason": "节奏略微上扬，为下午注入活力"
+      }
+    ],
+    "djScripts": [
+      {
+        "beforeTrack": 1,
+        "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+      },
+      {
+        "beforeTrack": 3,
+        "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+      }
+    ],
+    "generatedAt": "2026-05-09T14:06:39.431Z",
+    "triggerLabel": "手动触发",
+    "id": "show_1778335599431"
+  },
+  "shows": [
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石"
+        },
+        {
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro"
+        },
+        {
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T08:27:22.086Z",
+      "triggerLabel": "���Դ���",
+      "id": "show_1778315242086"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石"
+        },
+        {
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro"
+        },
+        {
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T08:27:22.315Z",
+      "triggerLabel": "�ڶ��δ���",
+      "id": "show_1778315242315"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石"
+        },
+        {
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro"
+        },
+        {
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T08:34:21.056Z",
+      "triggerLabel": "PWA�˵��˲���",
+      "id": "show_1778315661056"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "found": false,
+          "url": null,
+          "songId": null
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "found": false,
+          "url": null,
+          "songId": null
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "found": false,
+          "url": null,
+          "songId": null
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T08:42:58.075Z",
+      "triggerLabel": "������֤",
+      "id": "show_1778316178075"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "found": false,
+          "url": null,
+          "songId": null
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "found": false,
+          "url": null,
+          "songId": null
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "found": false,
+          "url": null,
+          "songId": null
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T08:49:59.567Z",
+      "triggerLabel": "npm start ��֤",
+      "id": "show_1778316599567"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "found": false,
+          "url": null,
+          "songId": null
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "found": false,
+          "url": null,
+          "songId": null
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "found": false,
+          "url": null,
+          "songId": null
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T08:51:17.785Z",
+      "triggerLabel": "PWA 手动触发",
+      "id": "show_1778316677785"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T09:16:43.139Z",
+      "triggerLabel": "��Ƶ���˲���",
+      "id": "show_1778318203139"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T09:23:51.086Z",
+      "triggerLabel": "test",
+      "id": "show_1778318631086"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T09:36:54.355Z",
+      "triggerLabel": "final",
+      "id": "show_1778319414355"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T09:39:29.120Z",
+      "triggerLabel": "v2",
+      "id": "show_1778319569120"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:01:29.065Z",
+      "triggerLabel": "Ч����֤",
+      "id": "show_1778320889065"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:01:38.509Z",
+      "triggerLabel": "PWA 手动触发",
+      "id": "show_1778320898509"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:17:27.755Z",
+      "triggerLabel": "搜索: jazz",
+      "id": "show_1778321847755"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:18:49.196Z",
+      "triggerLabel": "demo",
+      "id": "show_1778321929196"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:18:49.249Z",
+      "triggerLabel": "搜索: jazz",
+      "id": "show_1778321929249"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:18:49.595Z",
+      "triggerLabel": "搜索: rock",
+      "id": "show_1778321929595"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:36:26.512Z",
+      "triggerLabel": "搜索: jazz",
+      "id": "show_1778322986512"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:36:26.904Z",
+      "triggerLabel": "搜索: rock",
+      "id": "show_1778322986904"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:36:27.004Z",
+      "triggerLabel": "final",
+      "id": "show_1778322987004"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:41:52.031Z",
+      "triggerLabel": "搜索: jazz",
+      "id": "show_1778323312031"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:41:52.313Z",
+      "triggerLabel": "搜索: chill",
+      "id": "show_1778323312313"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:41:52.422Z",
+      "triggerLabel": "搜索: rock",
+      "id": "show_1778323312422"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:41:52.528Z",
+      "triggerLabel": "搜索: classical",
+      "id": "show_1778323312528"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:41:52.620Z",
+      "triggerLabel": "搜索: electronic",
+      "id": "show_1778323312620"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石",
+          "artist": "橘子海",
+          "reason": "慵懒的吉他 riff 适合这个温度",
+          "searchKeyword": "橘子海 夏日漱石",
+          "url": "/audio/fallback/demo_1.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "reason": "极简的电子氛围承接午后的宁静",
+          "searchKeyword": "The xx Intro",
+          "url": "/audio/fallback/demo_2.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "reason": "节奏略微上扬，为下午注入活力",
+          "searchKeyword": "告五人 带我去找夜生活",
+          "url": "/audio/fallback/demo_3.wav",
+          "songId": null,
+          "isFallback": true,
+          "found": false
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T10:41:52.712Z",
+      "triggerLabel": "demo",
+      "id": "show_1778323312712"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m701.music.126.net/20260509214657/023cc9c53d54e2eed4f80b19a3e426c6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=N0vU3/p8ZiG8Mj0kjU/5wsbxySNxF5IVG5+VbE7qaTsqzeeUSrYWhzIIkaY2aSwfCYFrrinFQCJjqsVFZPFQjdKzKjVGdgL9RU+AhQUE7bM=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m701.music.126.net/20260509214657/2807b0ad70d4fce4af8218bcecf2a9a8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=7xTz/I/TPF24IHLQH8ePzzZZHiaD77piuEERHqnFgBEZPHMKu+ygAZQoMuO4lXO3/WNItqTYVl8fi3iNd3Ror3gZCZod9kQj4PMbwsGNprc=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509214657/4759d03ceb78daf869fcc554b37a3152/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=gVFjOw5XM4/kDO5h8jULJYdz8v3XH3KTXhn8kMisee4bjfKm4rBMO87sA8Et80mOZ1whJWvCVpn7BOJBspf4TDGNESIK9MqeVzRkQ+vcNiQ=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:21:57.076Z",
+      "triggerLabel": "test",
+      "id": "show_1778332917076"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509215111/2788353f7d4ee76228fbe426e5ae0046/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=CadH9UdtLrDdkZ3TMEMC3e4n1fDEjAMxVQBHfbQDc6/hxbnmn28jNgKXmBWvojCkOaxOSCjXcKgoTvONxSHwcsobQxcKzpJfGyhG3p8rfgE=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m701.music.126.net/20260509215111/6886a796c9520c8a99bf776ccba3cd68/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=MLlbcv3NnAw8Wj3RF0Xw8693wMvvPm8xKsqPbJ/27b6NAcdIelep+dZoiI9rya8WUQ6hUlKCBPT8xx1gCSBdsFZGMUTd5wPfR4X3XVS/G5s=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m702.music.126.net/20260509215111/469d41ce9ef20cce73f6038710e08f75/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=YlNycwHWV6bHaCyvACFHCZv2Nb8oPZ119xMSGyPKiwzxV6nTrXNyoAKC/EM0WNFNlxuOTImv+M4twpmLy6xacuV1jbYNeZVaSKmJLbAKXC4=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:26:11.128Z",
+      "triggerLabel": "PWA 手动触发",
+      "id": "show_1778333171128"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509215111/2788353f7d4ee76228fbe426e5ae0046/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=CadH9UdtLrDdkZ3TMEMC3e4n1fDEjAMxVQBHfbQDc6/hxbnmn28jNgKXmBWvojCkOaxOSCjXcKgoTvONxSHwcsobQxcKzpJfGyhG3p8rfgE=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m701.music.126.net/20260509215111/6886a796c9520c8a99bf776ccba3cd68/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=MLlbcv3NnAw8Wj3RF0Xw8693wMvvPm8xKsqPbJ/27b6NAcdIelep+dZoiI9rya8WUQ6hUlKCBPT8xx1gCSBdsFZGMUTd5wPfR4X3XVS/G5s=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m702.music.126.net/20260509215111/469d41ce9ef20cce73f6038710e08f75/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=YlNycwHWV6bHaCyvACFHCZv2Nb8oPZ119xMSGyPKiwzxV6nTrXNyoAKC/EM0WNFNlxuOTImv+M4twpmLy6xacuV1jbYNeZVaSKmJLbAKXC4=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:26:18.263Z",
+      "triggerLabel": "PWA 手动触发",
+      "id": "show_1778333178263"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509215443/20afcb49f94f37ecfdfe021ea4d06ac1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=TwYTBZqh4oGycZa9nxvf6kMykKEBcQZ5Zi1htfeCstMyOyW/Uj3j7yME0mLSYR/JjAO4NKwjwzAxX7HPlkfkyrWuTyB3GiEsiyo3vmx33kk=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m701.music.126.net/20260509215444/d2a893c38fe0a6ab05cda2aba9730313/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=P22pNpaGyB9JdxX+FxEUGqK3Voi7dV03Qr4xCfjQZ6e6uoj156oKR4L54WCNtIPlid9DanWuDOv4iG2lMtxbfSZ7j4+D4wtfOZ8M7YjbzHk=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509215444/0eeff75b4166891c63483a151425ad7b/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=xTz06il6NLqbIUsxrYIlHMGBY1+BkqvLrtJyD1E5qwuHui6qMa8c8SgiD0/UoTUjKBsPqRgXnv8lrv+tEz3/JfMrXW2kYkRvHgDzKlIY2TQ=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:29:43.797Z",
+      "triggerLabel": "PWA 手动触发",
+      "id": "show_1778333383797"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m701.music.126.net/20260509215916/7243e5149fe10c45f011b68268c741e0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=I/bER2v80aGkPnbHov/Tk+AsuVLyhliuDiPV4u3gglcdcsX/rTMWye8NwycqFwFrLul2FsAk3g0lWEQx8ZEgc8o9K9y9uuTBSPuP3RalKuI=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m801.music.126.net/20260509215916/575d7e2c40655bf8850129327b0be262/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=B6B2ZKGyFTYCLwha3Qoew4gsClmWHibhjmfGyD3N8yV6hXPHC/byMUE/F/yXye/PQ8Vmx6vFM8lgssPwSF0CXu5pYU81F0gf/TZ4m7ncLcU=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509215917/5cb5dde0374a64b79eb3a7259ddc3fbc/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=15cQ4w9hXAlvg5qbfM4mKDf/tsPmb1EMp9xKFFXAEj0FqCiSj6by8Ulo/B4Vs85Cp3VKaedJE73CeQddPotTtz/AzZLDp9by1S6V0eyORTs=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:34:16.410Z",
+      "triggerLabel": "手动触发",
+      "id": "show_1778333656410"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m701.music.126.net/20260509215916/7243e5149fe10c45f011b68268c741e0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=I/bER2v80aGkPnbHov/Tk+AsuVLyhliuDiPV4u3gglcdcsX/rTMWye8NwycqFwFrLul2FsAk3g0lWEQx8ZEgc8o9K9y9uuTBSPuP3RalKuI=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m801.music.126.net/20260509215916/575d7e2c40655bf8850129327b0be262/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=B6B2ZKGyFTYCLwha3Qoew4gsClmWHibhjmfGyD3N8yV6hXPHC/byMUE/F/yXye/PQ8Vmx6vFM8lgssPwSF0CXu5pYU81F0gf/TZ4m7ncLcU=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509215917/5cb5dde0374a64b79eb3a7259ddc3fbc/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=15cQ4w9hXAlvg5qbfM4mKDf/tsPmb1EMp9xKFFXAEj0FqCiSj6by8Ulo/B4Vs85Cp3VKaedJE73CeQddPotTtz/AzZLDp9by1S6V0eyORTs=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:36:06.625Z",
+      "triggerLabel": "手动触发",
+      "id": "show_1778333766625"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509220801/33b5a642c2c5284b41b927c05fdf9c08/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=WgU5vWeIfVpvH3WcaMxxbOSuUV5d+kWvcL1YTQ2WPZ/6csVIPLZXVjUZ1VyP2RFFA+rK1mOS4Lkpafv2HZjTW/b1sdA/Vd7mL9RnjCder0k=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m701.music.126.net/20260509220802/9636e8a9f3db510f5f07140cf7608e41/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=cJmYg3CAzdiSvxlM2wSNwX/xP5IQaEJe4Ri35FSA/HgrhZ7Qhvzy0PUEBoXtXlsYvo/IVSYCyXqklARpLgZ8ThIJ8wom5/J4HAwXC/Jq1OQ=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m702.music.126.net/20260509220802/55c8eb2cfe3635e19babb4e849363d8f/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=Vj+5OTLhH5qeicfJKtZE/BOy80hUSC04OuxMfw47928mILL0RP4te0TV0Hc5pPbUkKRJbjLJ5zEfHQHhENTiqgcI0Hq4SGPWl3sHcFE+M6E=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T13:43:01.961Z",
+      "triggerLabel": "手动触发",
+      "id": "show_1778334181961"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m701.music.126.net/20260509222501/19eb6e3d79e305e98db60de27bd1a4dc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=MdusT+8DjViDn/TfX9laAexYTfSF98dlZAqyTwnN1DZonF+d63JVwmJLKmNdogWxYqvUtPTBU9g9rbdl9FBdt5/ozfPhZCq+Ma1psdO+fjE=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m701.music.126.net/20260509222502/43971d97686dea8c6f01f1e58475e51c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=x1tr0QUz/+YZDdzhvWms/jVq5edyM7AYa4v8MANDPcd8Zu9pGXjG8mEEOCcDzArnpfMdw894Y/YNQBv+ZH4XKnLjw0gV4hhOfswDnwV39kI=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509222502/58b8da7e57b04802f3241a95d7fd3cb5/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=t4QAAz4wvib/Jhcxv4CuSOyP7nDSB8Ih05Lukd+83mvjAG5G7+56jc8CpFjAdOEpx5i8m4VxlHcYQ+RyaCbTDIEPnOVIS3Do4vWqrhZ6L1o=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T14:00:01.976Z",
+      "triggerLabel": "周末晚间",
+      "id": "show_1778335201976"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509223032/10278fa003ea122a56d52ec0032a5e75/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=aJ7WO6zuBn7cdrtdKWX7RcuJ235zdyqhz3hN44DNAV/zMT0M7SgV0qpNcBZXaQj/M3OBI6N6sonzzGJEH8a+ioVANMZTTNGM2bBctBjg9Ro=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m801.music.126.net/20260509223033/095eec7613bc4b0ad07e0f4b31b7e99c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=JBUeXRrez5/Wo6eAjLF1zSM24Wr75KU/3y6RZ7+0t1J6y2its5nCclMnpnREYPU5mJqTj3jOp0haOa2yM2wXE+DcxC7LBsWFO5odflewRQs=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509223033/b1aa6883642700df4ffd1c411e9d7603/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=ZyI4ebakoRlQ2SKTAXo4DJmZo5ttU9YyD/b/8lM/Esx1NAzHG2GE8PGpSvkPj213b9AaNL5dIa9el/Wu4mqaia9Cg3UzXSJY0Oi2R6m+15s=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T14:05:32.738Z",
+      "triggerLabel": "手动触发",
+      "id": "show_1778335532738"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509223032/10278fa003ea122a56d52ec0032a5e75/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=aJ7WO6zuBn7cdrtdKWX7RcuJ235zdyqhz3hN44DNAV/zMT0M7SgV0qpNcBZXaQj/M3OBI6N6sonzzGJEH8a+ioVANMZTTNGM2bBctBjg9Ro=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m801.music.126.net/20260509223033/095eec7613bc4b0ad07e0f4b31b7e99c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=JBUeXRrez5/Wo6eAjLF1zSM24Wr75KU/3y6RZ7+0t1J6y2its5nCclMnpnREYPU5mJqTj3jOp0haOa2yM2wXE+DcxC7LBsWFO5odflewRQs=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509223033/b1aa6883642700df4ffd1c411e9d7603/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=ZyI4ebakoRlQ2SKTAXo4DJmZo5ttU9YyD/b/8lM/Esx1NAzHG2GE8PGpSvkPj213b9AaNL5dIa9el/Wu4mqaia9Cg3UzXSJY0Oi2R6m+15s=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T14:05:43.048Z",
+      "triggerLabel": "手动触发",
+      "id": "show_1778335543049"
+    },
+    {
+      "showTitle": "午后微风",
+      "mood": "chill",
+      "reason": "午后的阳光正好，来点轻松的旋律",
+      "playlist": [
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。",
+          "beforeTrack": 1
+        },
+        {
+          "type": "song",
+          "order": 1,
+          "songName": "夏日漱石(Summer Cozy Rock)",
+          "artist": "橘子海",
+          "album": "",
+          "cover": "",
+          "songId": 3362244830,
+          "url": "http://m801.music.126.net/20260509223032/10278fa003ea122a56d52ec0032a5e75/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/79139035892/06c1/ef9e/e600/653bad279178fef914654c14affdcb69.mp3?vuutv=aJ7WO6zuBn7cdrtdKWX7RcuJ235zdyqhz3hN44DNAV/zMT0M7SgV0qpNcBZXaQj/M3OBI6N6sonzzGJEH8a+ioVANMZTTNGM2bBctBjg9Ro=",
+          "found": true,
+          "reason": "慵懒的吉他 riff 适合这个温度"
+        },
+        {
+          "type": "song",
+          "order": 2,
+          "songName": "Intro",
+          "artist": "The xx",
+          "album": "xx",
+          "cover": "",
+          "songId": 4341314,
+          "url": "http://m801.music.126.net/20260509223033/095eec7613bc4b0ad07e0f4b31b7e99c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481778152/948f/c24c/ff89/8e9b74b2383b3b565cc948caf67a5901.mp3?vuutv=JBUeXRrez5/Wo6eAjLF1zSM24Wr75KU/3y6RZ7+0t1J6y2its5nCclMnpnREYPU5mJqTj3jOp0haOa2yM2wXE+DcxC7LBsWFO5odflewRQs=",
+          "found": true,
+          "reason": "极简的电子氛围承接午后的宁静"
+        },
+        {
+          "type": "tts",
+          "audioUrl": null,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。",
+          "beforeTrack": 3
+        },
+        {
+          "type": "song",
+          "order": 3,
+          "songName": "带我去找夜生活",
+          "artist": "告五人",
+          "album": "带我去找夜生活",
+          "cover": "",
+          "songId": 1410647903,
+          "url": "http://m802.music.126.net/20260509223033/b1aa6883642700df4ffd1c411e9d7603/jd-musicrep-ts/cc1a/5a34/ebea/a62ed51f3cc521e78a5175a59aaa83a1.mp3?vuutv=ZyI4ebakoRlQ2SKTAXo4DJmZo5ttU9YyD/b/8lM/Esx1NAzHG2GE8PGpSvkPj213b9AaNL5dIa9el/Wu4mqaia9Cg3UzXSJY0Oi2R6m+15s=",
+          "found": true,
+          "reason": "节奏略微上扬，为下午注入活力"
+        }
+      ],
+      "djScripts": [
+        {
+          "beforeTrack": 1,
+          "text": "嗨，下午好。外面阳光不错，摄氏22度，挺舒服的。先来一首橘子海的《夏日漱石》，给这个午后开个头。"
+        },
+        {
+          "beforeTrack": 3,
+          "text": "刚才那首来自 The xx，极简又带点迷幻。接下来换换口味，告五人的歌，让你下午精神一点。"
+        }
+      ],
+      "generatedAt": "2026-05-09T14:06:39.431Z",
+      "triggerLabel": "手动触发",
+      "id": "show_1778335599431"
+    }
+  ],
+  "listened": [],
+  "liked": [],
+  "skipped": []
+}
